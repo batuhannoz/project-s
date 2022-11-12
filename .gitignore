@@ -32,7 +32,7 @@ ExportedObj/
 *.unityproj
 *.sln
 *.suo
-*.tmp
+*.tmp2
 *.user
 *.userprefs
 *.pidb
@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# vscode
+
+*.vscode
